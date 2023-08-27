@@ -372,13 +372,6 @@ main .pacotes .pacotes__conteiner .pocotes__box {
   border: 2px solid #10221b;
   background: #fff;
 }
-main .pacotes .pacotes__conteiner .pocotes__box:hover {
-  background: #10221b;
-  cursor: pointer;
-}
-main .pacotes .pacotes__conteiner .pocotes__box:hover .content > * {
-  color: #fff;
-}
 main .pacotes .pacotes__conteiner .pocotes__box:hover .btn {
   border-color: #fff;
 }
@@ -416,6 +409,15 @@ main .pacotes .pacotes__conteiner .content p {
 }
 main .pacotes .pacotes__conteiner .content .preço {
   color: #219150;
+  font-size: 1.5rem;
+}
+
+main .pacotes .pacotes__conteiner .content h4 {
+  font-size: 2rem;
+}
+
+main .pacotes .pacotes__conteiner .content ul li {
+  list-style: none;
   font-size: 1.5rem;
 }
 main .comentarios .slide .text {
