@@ -372,6 +372,13 @@ main .pacotes .pacotes__conteiner .pocotes__box {
   border: 2px solid #10221b;
   background: #fff;
 }
+main .pacotes .pacotes__conteiner .pocotes__box:hover {
+  background: #10221b;
+  cursor: pointer;
+}
+main .pacotes .pacotes__conteiner .pocotes__box:hover .content > * {
+  color: #fff;
+}
 main .pacotes .pacotes__conteiner .pocotes__box:hover .btn {
   border-color: #fff;
 }
@@ -419,6 +426,7 @@ main .pacotes .pacotes__conteiner .content h4 {
 main .pacotes .pacotes__conteiner .content ul li {
   list-style: none;
   font-size: 1.5rem;
+  padding: 1rem 0;
 }
 main .comentarios .slide .text {
   font-size: 1.2rem;
