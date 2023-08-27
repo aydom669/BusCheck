@@ -347,11 +347,11 @@ main .pacotes .pacotes__conteiner .pocotes__box:hover .content > * {
   color: rgb(22, 22, 22);
 }
 main .pacotes .pacotes__conteiner .pocotes__box:hover .btn {
-  border-color: #fff;
+  border-color: rgb(12, 12, 12);
 }
 main .pacotes .pacotes__conteiner .pocotes__box:hover .btn:hover {
-  background: #fff;
-  color: #10221b;
+  background: rgb(231, 230, 230);
+  color: #000000;
 }
 main .pacotes .pacotes__conteiner figure {
   display: flex;
@@ -677,6 +677,7 @@ main .Escreva-se .content form .btn:hover {
   .header .nav a {
     font-size: 2rem;
     margin-bottom: 1rem;
+    color: #000;
   }
   .header .nav #nav-close {
     display: block;
