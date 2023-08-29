@@ -491,7 +491,7 @@ main .Blog .slide img {
   object-fit: cover;
 }
 main .Blog .slide .icons {
-  padding: 1rem 1.5rem;
+  padding: 1rem 2rem;
   position: relative;
   top: -2rem;
   border-radius: 0.5rem;
@@ -501,6 +501,7 @@ main .Blog .slide .icons {
 main .Blog .slide .icons a {
   color: #fff;
   font-size: 1.4rem;
+  padding: 0 0.5rem;
 }
 main .Blog .slide .icons a:hover {
   color: #219150;
@@ -564,7 +565,7 @@ main .Escreva-se .content form .btn:hover {
   width: 100%;
   height: 100%;
   background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
-    url(../images/footer-bg.jpg);
+    url(../images/jonathan-borba-T5jzpRTVF1U-unsplash.jpg);
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
